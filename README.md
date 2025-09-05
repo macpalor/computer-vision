@@ -1,0 +1,1 @@
+Exercises for the the Computer Vision course in the University of Helsinki lectured Autumn 2025.
